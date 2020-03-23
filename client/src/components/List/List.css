@@ -1,0 +1,31 @@
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    color: white;
+    height: 10%;
+    justify-content: space-between;
+  }
+  .user{
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  .activeContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .activeItem {
+    display: flex;
+    align-items: center;
+  }
+  
+  .activeContainer img {
+    padding-left: 10px;
+  }
+  
+  .textContainer h1 {
+    margin-bottom: 0px;
+  }
+  
+  
